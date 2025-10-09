@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hiii there 👋
+- 🌱 Im currently studying computer science:
+- 💻 I've learned python 
+- 💬 currently learning java 
+- 🎮 I like playing videos games like minecraft and palia. 
 <!--
 **kenzee03-coder/kenzee03-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
