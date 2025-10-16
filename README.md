@@ -5,7 +5,7 @@
 - 🎮 I like playing videos games like minecraft and palia.
 - 📫 can reach me: mec66062@email.vccs.edu
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/a30c5b71-f8e4-4a84-9a62-c1ed2c4b8994" />
-Markdown syntax: ![Alt text](pepe.jpeg)
+
 <!--
 **kenzee03-coder/kenzee03-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
